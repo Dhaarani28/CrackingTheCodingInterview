@@ -1,10 +1,8 @@
 # Cracking the Coding Interview Questions
 
-These are my solutions to some of the [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) (6th Edition) interview questions.
+These are my solutions to some of the [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) (6th Edition) questions in Java.
 
 ![Cracking the Coding Interview Cover](assets/cracking-the-coding-interview-cover.jpg)
-
-All solutions are implemented in Java.
 
 ## Compile and Run
 
